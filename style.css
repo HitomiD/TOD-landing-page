@@ -142,3 +142,33 @@ button {
     text-align: end;
     font-size: 25px;
 }
+
+.sign-up{
+    min-width: 700px;
+    align-items: center;
+    padding: 100px 150px;
+}
+
+.sign-banner{
+    display: flex;
+    min-width: 700px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882F6;
+    padding: 50px 120px;
+    border-radius: 10px;
+}
+
+.sign-header {
+    font-size: 28px;
+    color: white;
+    font-weight: bold;
+}
+
+.sign-subtext{
+    color:#E5E7EB;
+}
+
+.sign-banner button{
+    border: 2px solid;
+}
